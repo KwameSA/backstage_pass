@@ -122,7 +122,10 @@ textarea {
   border-radius: 10px;
   margin-bottom: 5px;
   resize: none;
+  padding: 10px;
+  margin-right: 1px;
 }
+
 /* SHOW AND GROUP SECTION */
 .show-group {
   flex: 1.5;
